@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 bob's text
 
 alice change
+=======
+bob's 
+>>>>>>> origin
